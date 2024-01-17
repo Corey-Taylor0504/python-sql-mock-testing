@@ -1,6 +1,4 @@
-<img src="./SQLMock_logo.png" alt="SQLMock Logo" width="250"/>
-
-# SQL Mock: Python Library for Mocking SQL Queries with Dictionary Inputs
+#Python Library for Mocking SQL Queries with Dictionary Inputs
 
 The primary purpose of this library is to simplify the testing of SQL data models and queries by allowing users to mock input data and create tests for various scenarios. It provides a consistent and convenient way to test the execution of your query without the need to process a massive amount of data.
 
